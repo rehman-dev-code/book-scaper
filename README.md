@@ -19,7 +19,7 @@ This is a Python project that scrapes book titles, prices, ratings, and images f
 
 ## How to Run
 
-1. Open Command Prompt (or terminal) in the `book_scraper.py` folder
+1. Open Command Prompt (or terminal) in the `book_scraper` folder
 2. Install required libraries if not already installed:
 
    ```bash
